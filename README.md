@@ -1,7 +1,8 @@
 # **PhoneBook**
 
 ## Description
-Welcome to PhoneBook, A Simple Contacts Management System made with __C language__ using concepts of File Handling. In this, user can store their Contact information for Emergency cases
+I am so excited to share with you my first year mini project: PhoneBook! PhoneBook is a management system project that I developed using C programming language. It allows you to store, search, update and delete contact information of your friends, family and colleagues.
+You can also sort the contacts by name, phone number or email address. PhoneBook is a simple but useful application that demonstrates my skills and knowledge in C programming. I hope you enjoy using it as much as I enjoyed creating it! PhoneBook is a simple and user-friendly program that uses file handling techniques. PhoneBook is easy to use and reliable, and it will save you time and hassle.
 
 
 ![PhoneBook](images/image1.png)
